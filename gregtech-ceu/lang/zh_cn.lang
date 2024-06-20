@@ -1,0 +1,15 @@
+# Circuit Board '电路基板' -> '电路板'
+metaitem.circuit_board.basic.name=电路板
+metaitem.circuit_board.basic.tooltip=基础电路板
+metaitem.circuit_board.good.name=优质电路板
+metaitem.circuit_board.good.tooltip=更好的电路板
+metaitem.circuit_board.plastic.name=塑料电路板
+metaitem.circuit_board.plastic.tooltip=比酚醛树脂更好
+metaitem.circuit_board.advanced.name=进阶电路板
+metaitem.circuit_board.advanced.tooltip=环氧树脂造就，品质优良
+metaitem.circuit_board.extreme.name=超级电路板
+metaitem.circuit_board.extreme.tooltip=更高级的电路板
+metaitem.circuit_board.elite.name=精英电路板
+metaitem.circuit_board.elite.tooltip=精英级电路板
+metaitem.circuit_board.wetware.name=大师电路板
+metaitem.circuit_board.wetware.tooltip=维生之板
